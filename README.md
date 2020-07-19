@@ -35,12 +35,12 @@ Supporting python files used to generate all logic
 
 High level documentation explaining tables designed and focusing on update methods
 
-## Our Technical approuch
+##Technical approuch
 
 
 
 
-## Our Business model 
+## Business model 
 
 
 ## Tools

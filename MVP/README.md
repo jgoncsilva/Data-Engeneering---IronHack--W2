@@ -1,1 +1,0 @@
-# Week_2_Project-SQL

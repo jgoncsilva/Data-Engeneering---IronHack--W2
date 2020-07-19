@@ -3,7 +3,7 @@
 """
 Created on Fri Jul 10 10:06:13 2020
 
-@author: goncalopinto
+
 """
 import re
 import pandas as pd

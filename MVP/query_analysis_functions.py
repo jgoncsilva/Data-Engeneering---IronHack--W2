@@ -3,7 +3,6 @@
 """
 Created on Fri Jul 10 09:15:30 2020
 
-@author: goncalopinto
 """
 
 import pymysql

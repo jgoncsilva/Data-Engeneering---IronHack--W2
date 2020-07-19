@@ -3,7 +3,7 @@
 """
 Created on Fri Jul 10 10:05:43 2020
 
-@author: goncalopinto
+
 """
 
 
